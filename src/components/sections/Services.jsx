@@ -122,7 +122,7 @@ export function Services() {
               </p>
 
               <a
-                href={`https://wa.me/2349159029931?text=${encodeURIComponent(
+                href={`https://wa.me/2348123456789?text=${encodeURIComponent(
                   category.whatsappMessage
                 )}`}
                 target="_blank"

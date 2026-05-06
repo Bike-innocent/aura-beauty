@@ -1,5 +1,5 @@
 git add .
-git commit -m "updating logo"
+git commit -m "updating logo2"
 git push origin main
 #pushing to github
 
