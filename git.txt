@@ -1,0 +1,14 @@
+git add .
+git commit -m "initial commit"
+git push origin main
+#pushing to github
+
+
+#if you want to start a new git repository
+rm -rf .git
+
+
+cd painting-site
+npm run dev
+#running the project
+ 
